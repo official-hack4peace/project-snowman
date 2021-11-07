@@ -3,3 +3,7 @@
 I AM NOT RESPONSIBLE FOR ANY DAMAGE AND ILLEGAL WORK THIS IS YOUR RESPONSIBILITY.
 # project-snowman
 #### project snowman is basically a virus which distroy system completely...
+# how to download
+### LINUX
+#### git clone https://github.com/official-hack4peace/project-snowman
+### Windows
