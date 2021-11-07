@@ -9,5 +9,5 @@ This tool not works on Android platform
 ### LINUX 🐧
 #### git clone https://github.com/official-hack4peace/project-snowman
 ### Windows 
-#### https://drive.google.com/file/d/12_Xxh09A0MAQjJSUe4MFvO3RF3DxAn4b/view?usp=drivesdk
+#### https://drive.google.com/file/d/12dZQcXwB_-OaCKymoMeqL-GvWKMRbZSe/view?usp=drivesdk
 # how to use
