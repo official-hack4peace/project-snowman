@@ -9,4 +9,4 @@ This tool not works on Android platform
 ### LINUX 🐧
 #### git clone https://github.com/official-hack4peace/project-snowman
 ### Windows 
-#### part 1(if are infecting windows system):- 
+#### 
