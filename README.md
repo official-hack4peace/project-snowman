@@ -11,3 +11,4 @@ This tool not works on Android platform
 ### Windows 
 #### https://drive.google.com/file/d/12dZQcXwB_-OaCKymoMeqL-GvWKMRbZSe/view?usp=drivesdk
 # how to use
+Install the software as per it's operating system (os) for example if it was windows then install batch file
